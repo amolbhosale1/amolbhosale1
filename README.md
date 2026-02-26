@@ -1,44 +1,55 @@
-<h1 align="center">Hi 👋, I'm Amol Bhosale</h1>
+<!-- Hero Banner -->
 <p align="center">
-  <strong>Full-Stack Engineer • Product-Minded Builder • SaaS Delivery Partner</strong>
-</p>
-<p align="center">
-  I help founders and teams build scalable products—from idea-stage MVPs to reliable SaaS platforms—
-  with clean architecture, predictable delivery, and long-term maintainability.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8FAFC,50:DBEAFE,100:EDE9FE&text=Amol%20Bhosale&fontColor=1F2937&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20SaaS%20Builder%20|%20Product-Minded%20Developer&descAlignY=58" alt="Amol Bhosale banner" />
 </p>
 
-<p align="center">
+<!-- Intro + Visual -->
+<div>
+  <img align="right" width="35%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding animation" />
+
+## 👋 Hey, I'm Amol
+
+I build **scalable web products** from MVP to production SaaS with a focus on:
+- clean architecture
+- predictable delivery
+- long-term maintainability
+
+🏆 Built products recognized at **Isle of Man Winner – Product of the Year** level.
+</div>
+
+<br clear="right" />
+
+<!-- Badges -->
+<p align="left">
   <a href="https://github.com/amolbhosale1?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/amolbhosale1?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/amolbhosale1?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
-  <a href="https://www.linkedin.com/in/amol-bhosale-55929022a/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://komarev.com/ghpvc/?username=amolbhosale1&style=for-the-badge&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=amolbhosale1&style=for-the-badge&color=blueviolet" alt="Profile views" />
   </a>
   <a href="mailto:amolbhosale.r@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-amolbhosale.r%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/amol-bhosale-55929022a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I'm Doing
 
-- 🔭 Currently building: **[GDPR AI-Powered Appointment Scheduling Platform](https://kaih.io/)**
-- 🏆 Built products recognized at the **Isle of Man Winner – Product of the Year** level
-- ✍️ I write about engineering and product delivery at **[thinkmacrotechnologies.in](https://thinkmacrotechnologies.in/)**
-- 💬 Ask me about: **Full-stack development, architecture, cloud, and shipping robust SaaS products**
+- 🔭 Building: **[GDPR AI-Powered Appointment Scheduling Platform](https://kaih.io/)**
+- ✍️ Writing on: **[thinkmacrotechnologies.in](https://thinkmacrotechnologies.in/)**
+- 💬 Open to discussing: **full-stack architecture, cloud delivery, and SaaS product engineering**
+- 🤝 Open to collaborations on impactful product builds
 
 ---
 
-## 🧰 Core Stack
+## 🧰 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend" />
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Databases" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Azure-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Cloud" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20CI/CD-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20JavaScript%20%7C%20Python-3776AB?style=flat-square&logo=typescript&logoColor=white" alt="Languages" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,mongodb,postgres,mysql,aws,gcp,azure,docker,kubernetes,redis,graphql,nginx,linux,git" alt="Tech stack icons" />
 </p>
 
 ---
@@ -48,33 +59,48 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-📚 Read more on: **[thinkmacrotechnologies.in/blog](https://thinkmacrotechnologies.in/blog)**
+📚 Visit my blog: **[thinkmacrotechnologies.in/blog](https://thinkmacrotechnologies.in/blog)**
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Analytics
 
-<p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amolbhosale1&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolbhosale1&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=amolbhosale1&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amolbhosale1&theme=github-light&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amolbhosale1&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=12" alt="GitHub trophies" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="left">
   <a href="https://www.linkedin.com/in/amol-bhosale-55929022a/">LinkedIn</a> •
   <a href="https://thinkmacrotechnologies.in/blog">Blog</a> •
   <a href="mailto:amolbhosale.r@gmail.com">Email</a>
 </p>
 
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=amolbhosale1&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amolbhosale1&show_icons=true&locale=en" alt="GitHub stats" />
+  <i>"Build simple. Scale smart. Ship reliably."</i>
 </p>
 
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amolbhosale1" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to collaborating on impactful product engineering work.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:EDE9FE,50:DBEAFE,100:F8FAFC&section=footer" alt="footer" />
 </p>
