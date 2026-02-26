@@ -66,25 +66,9 @@ I build **scalable web products** from MVP to production SaaS with a focus on:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amolbhosale1&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolbhosale1&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=amolbhosale1&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amolbhosale1&theme=github-light&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amolbhosale1&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=12" alt="GitHub trophies" />
-</p>
 
 ---
 
