@@ -35,22 +35,6 @@
   </tr>
 </table>
 
-<!-- Top Badges -->
-<p align="left">
-  <a href="https://github.com/amolbhosale1?tab=followers">
-    <img src="https://img.shields.io/github/followers/amolbhosale1?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=amolbhosale1&style=for-the-badge&color=blueviolet">
-    <img src="https://komarev.com/ghpvc/?username=amolbhosale1&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  </a>
-  <a href="mailto:amolbhosale.r@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/amol-bhosale-55929022a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 What I'm Doing
@@ -66,14 +50,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,mongodb,postgres,mysql,aws,gcp,azure,docker,kubernetes,redis,graphql,nginx,linux,git" alt="Tech stack icons" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=amolbhosale1&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
