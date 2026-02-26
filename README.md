@@ -54,21 +54,11 @@ I build **scalable web products** from MVP to production SaaS with a focus on:
 
 ---
 
-## 📝 Latest Writing
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-📚 Visit my blog: **[thinkmacrotechnologies.in/blog](https://thinkmacrotechnologies.in/blog)**
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=amolbhosale1&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
-
 
 ---
 
